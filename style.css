@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:arial, sans-serif;
+ 
+}
+.header{
+    
+    padding:0px 30px;
+    margin-top: 30px;
+        
+}
+.nav ul li{
+    
+    list-style: none;
+    display:inline;
+    float: right;
+   
+}
+
+
+.nav ul li:hover{
+
+    text-decoration: underline;
+    cursor:pointer;
+   
+}
+
+#user-pic{
+    
+    margin-top: 0;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+  
+
+}
+
+
+#google-apps{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+   
+   
+
+}
+
+#images-text{   
+    
+    vertical-align:middle;
+    margin-right: 20px;
+    text-decoration: none;
+    color:#000;
+}
+
+#gamil{
+    
+    vertical-align:middle;
+    margin-right: 20px;
+    text-decoration: none;
+    color:#000;
+}
+
+.logo img{
+    
+    width:270px;
+    height: 90px;
+    margin-left: 40%;
+    margin-top: 12%;
+    
+}
+
+.search .search-box{
+    
+    margin-left:30%;
+    width:40%;
+    height:50px;
+    margin-top:30px;
+    border:none;
+    border:1px solid #ddd;
+    border-radius: 30px;
+  
+  
+}
+
+.box-sub{
+    
+    height:40px;
+    background-color:#f2f2f2;
+    border:none;
+    border-radius:6px;
+    padding:10px;
+    color:#5F6368;
+    margin-top:30px;
+    font-size:15px;
+    
+}
+
+#search-sub{
+    
+    margin-left:41%;
+    
+}
+
+#Lucky-sub{
+    
+   margin-left:15px;; 
+    
+}
+
+.box-sub:hover{
+    
+    cursor:pointer;
+    border:.4px solid #bcbcbc;
+    background-color:#f6f6f6;
+    color:#000;
+    
+}
+
+.offeerd
+{
+    text-align: center;
+    margin-top:20px;
+    font-size: 11px;
+   
+}
+
+.offeerd span a{
+    
+    text-decoration: none;
+    color:#00f;
+}
+
+.offeerd span a:hover{
+    
+     text-decoration: underline;
+}
+
+.footer{
+    
+    color:#63676b; 
+    background-color:#f2f2f2;
+    position: absolute;
+    bottom:0px;
+    width:100%;
+    height:9%;
+  
+}
+
+.country-nav{
+
+    border:1px solid #e4e4e4;
+    height:50%;
+    line-height: 35px;
+    padding-left:25px;
+    font-size: 14px;
+   
+   
+}
+
+.left-nav{
+    
+    line-height: 30px;
+    margin-left:14px; 
+    font-size: 11px;   
+    
+}
+
+.left-nav ul li{
+    
+    list-style: none;
+    display:inline;
+    margin-left:11px; 
+    float:left;
+  
+}
+
+
+.right-nav ul li{
+    
+    float: right;
+    list-style: none;  
+    line-height: 27px;
+    margin-right:14px; 
+    font-size: 11px;
+}
+
+.last-nav div ul li:hover{
+    
+    text-decoration: underline;
+    cursor:pointer;
+    
+}
